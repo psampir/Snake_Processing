@@ -132,7 +132,7 @@ void draw() {
     text("Move using arrows", width /2 , height / 2 + 120);
     
     textSize(20);
-    text("v1.0.1", width / 2 + 180, height / 2 - 120);
+    text("v1.0.0", width / 2 + 180, height / 2 - 120);
     
     text("Made by Paweł Sampir (2024)", width / 2, height - 20);
     
