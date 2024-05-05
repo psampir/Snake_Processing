@@ -100,8 +100,9 @@ void draw() {
   }
   
   // drawing on screen
+  textAlign(CENTER, CENTER);
+  
   if(!menu) {
-    textAlign(CENTER, CENTER);
     fill(255, 255, 255, 200);
     textSize(30);
     text("Points: " + points, 60, 20);
